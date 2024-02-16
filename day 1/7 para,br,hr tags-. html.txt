@@ -1,0 +1,13 @@
+<!Doctype html>
+<head>
+<title>EXAMPLE PROGRAM</title>
+</head>
+<body>
+
+<H1>EXAMPLE PROGRAM</H1>
+<P>Hai i am HTML,expansion of hyper text markup language</P>
+<hr>
+<P>Hai i am HTML,expansion of <br> hyper text markup language</P>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>HariHaran v</TITLE>
+</HEAD>Adding Image with Attributes<br>
+<img src="HARI.PNG" height="300px" width="300px"border=3 style="float:right">
+<BODY>
+</BODY>
+</HTML>

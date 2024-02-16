@@ -1,0 +1,13 @@
+<!Doctype html>
+<head>
+
+</head>
+<body>
+<h1>creativity</h1>
+<h2>self motivator</h2>
+<h3>patiency</h3>
+<h4>adaptability</h4>
+<h5>empathy</h5>
+<h6>problem solver</h6>
+</body>
+</html>
